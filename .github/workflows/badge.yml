@@ -1,5 +1,5 @@
 name: Badge
-on: [main]
+on: [push]
 
 jobs:
   badges:
